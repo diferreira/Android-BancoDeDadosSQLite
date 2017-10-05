@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExemploBancoDeDadosSQLite</string>
+    <string name="nome">Nome:</string>
+    <string name="email">Email:</string>
+    <string name="salvar">Salvar</string>
+    <string name="novo_cadastro">Novo cadastro</string>
+    <string name="inserido_com_sucesso">Inserido com sucesso!</string>
+    <string name="excluir">Excluir</string>
+</resources>
